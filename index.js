@@ -29,3 +29,6 @@ const turnOn = {
 }
 
 buttons.addEventListener('click', trafficLght)
+// mudei pra corrigir no githab
+
+
